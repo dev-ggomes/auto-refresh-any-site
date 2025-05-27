@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ef/swPzTwv4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferao\\Desktop\\projetos github\\auto-refresh\\GitHubProfileRefresh\\GitHubProfileRefresh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferao\\.nuget\\packages\\selenium.webdriver\\4.33.0\\selenium.webdriver.4.33.0.nupkg.sha512",
+    "C:\\Users\\ferao\\.nuget\\packages\\selenium.webdriver.chromedriver\\136.0.7103.11300\\selenium.webdriver.chromedriver.136.0.7103.11300.nupkg.sha512"
+  ],
+  "logs": []
+}

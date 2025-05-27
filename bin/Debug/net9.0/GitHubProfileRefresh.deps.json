@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GitHubProfileRefresh/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.33.0",
+          "Selenium.WebDriver.ChromeDriver": "136.0.7103.11300"
+        },
+        "runtime": {
+          "GitHubProfileRefresh.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.33.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/136.0.7103.11300": {}
+    }
+  },
+  "libraries": {
+    "GitHubProfileRefresh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Selenium.WebDriver/4.33.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5dzwA1cMorwYWudX46zyeUqyZn48TZeCHbSERxbpKezGxZ8hMBpcL12XwG4RGUuQKGH8FiEOJOFK4eCE//uNpQ==",
+      "path": "selenium.webdriver/4.33.0",
+      "hashPath": "selenium.webdriver.4.33.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/136.0.7103.11300": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZJGDHVdjyymbx6cayo1nay47WNLXywqtLBSy1Vd8b0HdyD5dp92KWzjrktmK3pGs0yXS2MxpaYeW0pnBbMJDHw==",
+      "path": "selenium.webdriver.chromedriver/136.0.7103.11300",
+      "hashPath": "selenium.webdriver.chromedriver.136.0.7103.11300.nupkg.sha512"
+    }
+  }
+}

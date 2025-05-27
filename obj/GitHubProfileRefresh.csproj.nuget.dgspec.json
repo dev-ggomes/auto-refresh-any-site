@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ferao\\Desktop\\projetos github\\auto-refresh\\GitHubProfileRefresh\\GitHubProfileRefresh.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ferao\\Desktop\\projetos github\\auto-refresh\\GitHubProfileRefresh\\GitHubProfileRefresh.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ferao\\Desktop\\projetos github\\auto-refresh\\GitHubProfileRefresh\\GitHubProfileRefresh.csproj",
+        "projectName": "GitHubProfileRefresh",
+        "projectPath": "C:\\Users\\ferao\\Desktop\\projetos github\\auto-refresh\\GitHubProfileRefresh\\GitHubProfileRefresh.csproj",
+        "packagesPath": "C:\\Users\\ferao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferao\\Desktop\\projetos github\\auto-refresh\\GitHubProfileRefresh\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ferao\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.33.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[136.0.7103.11300, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
