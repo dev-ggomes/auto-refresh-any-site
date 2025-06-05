@@ -90,13 +90,13 @@ Press `Ctrl + C` in the terminal to stop the script.
 
 <br>
 
-## ⚠️ Ethical disclaimer
-> This project is for educational purposes only. Artifically inflating view counters may violate the terms os service of certain platforms. Use responsibly.
-
-<br>
-
 ## 🎯 What the script does
 
  1. Automatically launches `Google Chrome` in headless (invisible) mode.
  2. Visits the url that is saved in the variable `driver.Navigate().GoToUrl("https://site.com")`.
  3. Refreshes the page every 5 seconds, simulating real user behavior (cookies, JavaScript, etc.).
+
+---
+
+> [!WARNING]
+> This project is for educational purposes only. Artifically inflating view counters may violate the terms os service of certain platforms. Use responsibly.
