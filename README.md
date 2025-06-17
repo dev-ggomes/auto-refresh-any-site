@@ -29,6 +29,7 @@
   3. Operating System: `Windows`, `Linux` or `macOS`
   4. Internet connection
 
+> [!NOTE]
 > Typically the recommended SDK version is `.NET 7` or `.NET 8`
 
 <br>
@@ -74,7 +75,8 @@
    - If you want to auto refresh a site, find this line: `driver.Navigate().GoToUrl("https://site.com");` and change the link to the site you want to auto refresh <br>
   
    - This script were made to auto refresh any site every `5 seconds`. If you want to change this period of time between refreshes, change the value of this line: `Thread.Sleep(5000);` to every value you think is the better for you. <br>
-  > Too short periods of time between refreshes may cause a crash in your browser.
+  > [!WARNING]
+> Too short periods of time between refreshes may cause a crash in your browser.
 
 </p>
 
@@ -86,7 +88,7 @@
   ```
 
 ## ❌ How to stop it
-Press `Ctrl + C` in the terminal to stop the script.
+Press `Ctrl` + `C` in the terminal to stop the script.
 
 <br>
 
