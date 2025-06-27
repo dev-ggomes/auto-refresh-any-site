@@ -1,3 +1,10 @@
+<!-- |||||||||||||||||||| EN - PT |||||||||||||||||||| -->
+<p align='center'>
+  <a href="https://github.com/dev-ggomes/auto-refresh-any-site/blob/main/README.md">🇺🇸 English</a> | 
+  <a href="https://github.com/dev-ggomes/auto-refresh-any-site/blob/main/README-pt-pt.md">ᴘᴛ Português</a> | 
+  <a href="https://github.com/dev-ggomes/auto-refresh-any-site/blob/main/README-pt-br.md">🇧🇷 Português</a>
+</p>
+
 <h1 align="center">
   🚀 Auto refresh any site
 </h1>
